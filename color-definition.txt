@@ -1,0 +1,7 @@
+# Color Definition
+
+- UDP: b
+- TCP: g
+- TLS: r
+- HTTPS: m
+- QUIC: c
